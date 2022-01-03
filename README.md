@@ -1,6 +1,3 @@
-Os tópicos de programação incluem:
-
-Lógica de programação e algoritmos
 <h1>Sobre</h1>
 
 <p>Códigos de estudo do curso online Java COMPLETO Programação Orientada a Objetos +Projetos da Udemy.
