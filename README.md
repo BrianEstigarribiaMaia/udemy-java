@@ -8,9 +8,9 @@ Utilizei a plataforma GitHub como meio de organizar os Códigos e compartilhar o
 <ul>
   <li>Sintaxe da linguagem Java</li>
   <li>Classes, atributos e métodos</li>
-  <li><li>Construtores, sobrecarga, encapsulamento</li>
-  <li><li>Estruturas de dados: arrays e coleções</li>
-  <li><li>Enumerações, composição</li>
+  <li>Construtores, sobrecarga, encapsulamento</li>
+  <li>Estruturas de dados: arrays e coleções</li>
+  <li>Enumerações, composição</li>
   <li>Herança, polimorfismo, interfaces</li>
   <li>Tratamento de exceções</li>
   <li>Generics</li>
@@ -18,7 +18,7 @@ Utilizei a plataforma GitHub como meio de organizar os Códigos e compartilhar o
   <li>Manipulação de arquivos</li>
 </ul>
   
-<h3>ferramentas e frameworks para se trabalhar com Java profissionalmente<h3>
+<h3>ferramentas e frameworks para se trabalhar com Java profissionalmente</h3>
 
 <ul>
    <li>JDBC para acesso a dados baseado em SQL</li>
